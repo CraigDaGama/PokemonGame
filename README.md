@@ -10,4 +10,4 @@ Welcome to the Pokemon Battle Simulator, a C++ program that allows users to simu
 - Attack Moves: Each Pokemon has a set of attack moves with different power levels.
 - Health and Status Tracking: Monitor the health and status of your Pokemon and your opponent's Pokemon during battles.
 - Experience Points: Gain experience points for your Pokemon after each battle.
-- Level Up: Level up your Pokemon after gaining enough of exp
+- Level Up: Level up your Pokemon after gaining enough of exp 
